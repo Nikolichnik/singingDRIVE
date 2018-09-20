@@ -1,0 +1,56 @@
+eeschema (22-Jun-2014 BZR 4027)-stable  >> Creation date: Tue 27 Dec 2016 11:54:47 CET
+#Cmp ( order = Reference )
+| J1         USB         
+| P1         coil_1      
+| P2         CONN_1      
+| P3         CONN_1      
+| P4         Arduino     
+| P5         coil_2      
+| P6         CONN_1      
+| P7         CONN_1      
+| Q1         2N3906      
+| Q2         2N3904      
+| Q3         2N3906      
+| Q4         2N3904      
+| Q5         2N3906      
+| Q6         2N3904      
+| Q7         2N3906      
+| Q8         2N3904      
+| R1         1k5         
+| R2         1k5         
+| R3         1k5         
+| R4         1k5         
+| R5         1k5         
+| R6         1k5         
+| R7         1k5         
+| R8         1k5         
+#End Cmp
+
+#Cmp ( order = Value )
+| USB          J1        
+| coil_1       P1        
+| CONN_1       P2        
+| CONN_1       P3        
+| Arduino      P4        
+| coil_2       P5        
+| CONN_1       P6        
+| CONN_1       P7        
+| 2N3906       Q1        
+| 2N3904       Q2        
+| 2N3906       Q3        
+| 2N3904       Q4        
+| 2N3906       Q5        
+| 2N3904       Q6        
+| 2N3906       Q7        
+| 2N3904       Q8        
+| 1k5          R1        
+| 1k5          R2        
+| 1k5          R3        
+| 1k5          R4        
+| 1k5          R5        
+| 1k5          R6        
+| 1k5          R7        
+| 1k5          R8        
+#End Cmp
+
+#End List
