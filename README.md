@@ -5,5 +5,6 @@ It includes stepper motor driver controlled by Arduino microntroller. Video demo
 
 <hr>
 
-[![Alt text](https://img.youtube.com/vi/EQ7sJ51bUXY/0.jpg)](https://www.youtube.com/watch?v=EQ7sJ51bUXY)
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=EQ7sJ51bUXY"><img src="https://img.youtube.com/vi/EQ7sJ51bUXY/0.jpg"></a>
+</p>
